@@ -128,6 +128,7 @@ Select SoldAsVacant
 From Portfolio.dbo.NashvilleHousing
 
 
+
 Update Portfolio.dbo.NashvilleHousing
 SET SoldAsVacant = CASE When SoldAsVacant = 'Y' THEN 'Yes'
 		 When SoldAsVacant = 'N' THEN 'NO'
