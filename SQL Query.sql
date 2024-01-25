@@ -1,10 +1,6 @@
 /*
 
-
 Cleaning data in SQL Queries
-
---Change Y and N to Yes and No in "Sold as Vacant" field
---Remove Duplicates
 
 */
 
